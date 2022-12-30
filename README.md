@@ -2,4 +2,4 @@
 
 감정일기
 
-React-query, Typescript, Recoil
+Javascript, React-query, Typescript, Recoil
